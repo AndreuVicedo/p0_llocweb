@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Magnies';
+    src: url('../fonts/Magnies.eot');
+    src: url('../fonts/Magnies.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Magnies.woff2') format('woff2'),
+        url('../fonts/Magnies.woff') format('woff'),
+        url('../fonts/Magnies.ttf') format('truetype'),
+        url('../fonts/Magnies.svg#Magnies') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
